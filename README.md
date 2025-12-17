@@ -1,3 +1,1 @@
-# java-programs
-# 
-# Week1
+# java-programs week-2
